@@ -8,6 +8,14 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 185周赛  | [1532. 重新格式化字符串](https://leetcode-cn.com/problems/reformat-the-string/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr1.rs) |
+|          | [1533. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr2.rs) |
+|          | [1534. 数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr3.rs) |
+|          | [1535. 生成数组](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr4.rs) |
+| 24双周赛 | [1514. 逐步求和得到正数的最小值](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr1.rs) |
+|          | [1515. 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr2.rs) |
+|          | [1516. 长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr3.rs) |
+|          | [1517. 恢复数组](https://leetcode-cn.com/problems/restore-the-array/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr4.rs) |
 | 184周赛  | [1408. 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr1.rs) |
 |          | [1409.查询带键的排列](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr2.rs) |
 |          | [1410.HTML 实体解析器](https://leetcode-cn.com/problems/html-entity-parser/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr3.rs) |
@@ -70,6 +78,8 @@ Weekly Contests are listed in reverse chronological order:
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 20 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_20.rs) |
+| April 19 | [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)***⭐️ |                                                              |
 | April 18 | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_18.rs) |
 | April 17 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_17.rs) |
 | April 16 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_16.rs) |
@@ -82,4 +92,16 @@ Weekly Contests are listed in reverse chronological order:
 | April 9  | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_9.rs) |
 | April 8  | [面试题13. 机器人的运动范围  LCOF](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_8.rs) |
 | April 7  | [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_7.rs) |
+
+### *Code Your Future* Contest
+
+*Code Your Future* Programming Contest is held at April 18. I ranked 1488 out of 4094 participants. Poor result! I would still put the problems and solution below:
+
+| Index | Name                                                         | Solution                                                     |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi)*       | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr1.rs) |
+| 2     | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr2.rs) |
+| 3     | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr3.rs) |
+| 4     | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr4.rs) |
+| 5     | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr5.rs) |
 
