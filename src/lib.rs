@@ -19,6 +19,6 @@ mod biweekly_24;
 
 mod everyday;
 
-// mod code_contest;
+mod code_contest;
 
 mod utils;
