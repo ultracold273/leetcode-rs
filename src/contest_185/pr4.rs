@@ -18,9 +18,7 @@ fn num_of_arrays(n: i32, m: i32, k: i32) -> i32 {
             }
         }
     }
-    // println!("{:?}", dp[n][k]);
     let res = dp[n][k].iter().skip(k).fold(0u64, |sum, v| (sum + v) % MOD);
-    // println!("{:?}", res);
     res as i32
 }
 
