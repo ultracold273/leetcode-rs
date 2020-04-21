@@ -78,6 +78,7 @@ Weekly Contests are listed in reverse chronological order:
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 22 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_22.rs) |
 | April 21 | [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_21.rs) |
 | April 20 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_20.rs) |
 | April 19 | [466. 统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/)***⭐️ |                                                              |
