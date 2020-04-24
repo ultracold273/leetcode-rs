@@ -78,6 +78,8 @@ Weekly Contests are listed in reverse chronological order:
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 24 | [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_24.rs) |
+| April 23 | [面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_23.rs) |
 | April 22 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_22.rs) |
 | April 21 | [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_21.rs) |
 | April 20 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_20.rs) |
@@ -95,15 +97,17 @@ Weekly Contests are listed in reverse chronological order:
 | April 8  | [面试题13. 机器人的运动范围  LCOF](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_8.rs) |
 | April 7  | [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_7.rs) |
 | April 6  | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_6.rs) |
-| April 5  | [460. LFU缓存](https://leetcode-cn.com/problems/lfu-cache)*** |                                                              |
+| April 5  | [460. LFU缓存](https://leetcode-cn.com/problems/lfu-cache)*** | 链表不易实现                                                 |
 | April 4  | [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_4.rs) |
 | April 3  | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_3.rs) |
 | April 2  | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_2.rs) |
 | April 1  | [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)** |                                                              |
 
-### *Code Your Future* Contest
+### LeetCode 2020 Spring *Code Your Future* Contest
 
-*Code Your Future* Programming Contest is held at April 18. I ranked 1488 out of 4094 participants. Poor result! I would still put the problems and solution below:
+#### Solo Contest
+
+*Code Your Future* Programming Contest solo is held at April 18. I ranked 1488 out of 4094 participants. Poor result! I would still put the problems and solution below:
 
 | Index | Name                                                         | Solution                                                     |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -113,3 +117,6 @@ Weekly Contests are listed in reverse chronological order:
 | 4     | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr4.rs) |
 | 5     | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/code_contest/pr5.rs) |
 
+#### Team Contest
+
+Code Your Future* Programming Contest team is held at April 25. I still take part in it sololy.
