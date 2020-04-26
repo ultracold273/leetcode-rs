@@ -8,6 +8,10 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 186周赛  | [1537. 分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr1.rs) |
+|          | [1538. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr2.rs) |
+|          | [1539. 对角线遍历 II](https://leetcode-cn.com/problems/diagonal-traverse-ii/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr3.rs) |
+|          | [1286. 带限制的子序列和](https://leetcode-cn.com/problems/constrained-subset-sum/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr4.rs) |
 | 185周赛  | [1532. 重新格式化字符串](https://leetcode-cn.com/problems/reformat-the-string/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr1.rs) |
 |          | [1533. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr2.rs) |
 |          | [1534. 数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_185/pr3.rs) |
@@ -78,6 +82,7 @@ Weekly Contests are listed in reverse chronological order:
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 25 | [46. 全排列](https://leetcode-cn.com/problems/permutations/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_25.rs) |
 | April 24 | [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_24.rs) |
 | April 23 | [面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_23.rs) |
 | April 22 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_22.rs) |
