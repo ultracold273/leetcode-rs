@@ -10,6 +10,7 @@ mod contest_182;
 mod contest_183;
 mod contest_184;
 mod contest_185;
+mod contest_186;
 
 mod biweekly_20;
 mod biweekly_21;
