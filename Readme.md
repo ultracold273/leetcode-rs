@@ -78,10 +78,14 @@ Weekly Contests are listed in reverse chronological order:
 |          | [1471. 参加考试的最大学生数](https://leetcode-cn.com/problems/maximum-students-taking-exam/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_175/pr4.rs) |
 
 
-### One problem per day Campaign
+### *Everyday Exercise* Campaign
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 29 | [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_29.rs) |
+| April 28 | [面试题56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_28.rs) |
+| April 27 | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_27.rs) |
+| April 26 | [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)*** |                                                              |
 | April 25 | [46. 全排列](https://leetcode-cn.com/problems/permutations/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_25.rs) |
 | April 24 | [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_24.rs) |
 | April 23 | [面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_23.rs) |
@@ -124,4 +128,4 @@ Weekly Contests are listed in reverse chronological order:
 
 #### Team Contest
 
-Code Your Future* Programming Contest team is held at April 25. I still take part in it sololy.
+*Code Your Future* Programming Contest team is held at April 25. I did not take part in it. But I still finish the contest afterwards. Below lists the solution of my own.
