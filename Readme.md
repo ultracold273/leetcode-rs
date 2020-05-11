@@ -8,6 +8,18 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 188周赛  | [1552. 用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr1.rs) |
+|          | [1553. 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr2.rs) |
+|          | [1554. 收集树上所有苹果的最少时间](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr3.rs) |
+|          | [1555. 切披萨的方案数](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr4.rs) |
+| 187周赛  | [1547. 旅行终点站](https://leetcode-cn.com/problems/destination-city/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_187/pr1.rs) |
+|          | [1548. 是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_187/pr2.rs) |
+|          | [1549. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_187/pr3.rs) |
+|          | [1550. 有序矩阵中的第 k 个最小数组和](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_187/pr4.rs) |
+| 25双周赛 | [1528. 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_25/pr1.rs) |
+|          | [1529. 改变一个整数能得到的最大差值](https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_25/pr2.rs) |
+|          | [1530. 检查一个字符串是否可以打破另一个字符串](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_25/pr3.rs) |
+|          | [1531. 每个人戴不同帽子的方案数](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_25/pr4.rs) |
 | 186周赛  | [1537. 分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr1.rs) |
 |          | [1538. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr2.rs) |
 |          | [1539. 对角线遍历 II](https://leetcode-cn.com/problems/diagonal-traverse-ii/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_186/pr3.rs) |
@@ -21,9 +33,9 @@ Weekly Contests are listed in reverse chronological order:
 |          | [1516. 长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr3.rs) |
 |          | [1517. 恢复数组](https://leetcode-cn.com/problems/restore-the-array/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_24/pr4.rs) |
 | 184周赛  | [1408. 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr1.rs) |
-|          | [1409.查询带键的排列](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr2.rs) |
-|          | [1410.HTML 实体解析器](https://leetcode-cn.com/problems/html-entity-parser/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr3.rs) |
-|          | [1411.给 N x 3 网格图涂色的方案数](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr4.rs) |
+|          | [1409. 查询带键的排列](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr2.rs) |
+|          | [1410. HTML 实体解析器](https://leetcode-cn.com/problems/html-entity-parser/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr3.rs) |
+|          | [1411. 给 N x 3 网格图涂色的方案数](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_184/pr4.rs) |
 | 183周赛  | [1403. 非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_183/pr1.rs) |
 |          | [1404. 将二进制表示减到 1 的步骤数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_183/pr2.rs) |
 |          | [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/)**⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_183/pr3.rs) |
@@ -82,6 +94,7 @@ Weekly Contests are listed in reverse chronological order:
 
 | Date     | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| April 30 | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_30.rs) |
 | April 29 | [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_29.rs) |
 | April 28 | [面试题56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_28.rs) |
 | April 27 | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/everyday/apr_27.rs) |
