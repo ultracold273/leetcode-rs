@@ -8,6 +8,14 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 189周赛 | [1560. 在既定时间做作业的学生人数](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr1.rs) |
+|  | [1561. 重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr2.rs) |
+|  | [1562. 收藏清单](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr3.rs) |
+|  | [1563. 圆形靶内的最大飞镖数量](https://leetcode-cn.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr4.rs) |
+| 26双周赛 | [1542. 连续字符](https://leetcode-cn.com/problems/consecutive-characters/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_26/pr1.rs) |
+|  | [1543. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_26/pr2.rs) |
+|  | [1544. 统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_26/pr3.rs) |
+|  | [1545. 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_26/pr4.rs) |
 | 188周赛  | [1552. 用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr1.rs) |
 |          | [1553. 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr2.rs) |
 |          | [1554. 收集树上所有苹果的最少时间](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_188/pr3.rs) |
