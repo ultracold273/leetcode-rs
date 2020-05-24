@@ -27,7 +27,7 @@ fn traverse(root: Ref<'_, TreeNode>, paths: &mut Vec<i32>) -> i32 {
         }
     } else {
         if let Some(lnode) = root.left.clone() {
-        count += traverse(lnode.borrow(), paths);
+            count += traverse(lnode.borrow(), paths);
         }
         if let Some(rnode) = root.right.clone() {
             count += traverse(rnode.borrow(), paths);
