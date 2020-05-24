@@ -8,6 +8,10 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 190周赛 | [1566. 检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_190/pr1.rs) |
+|  | [1567. 定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_190/pr2.rs) |
+|  | [1568. 二叉树中的伪回文路径](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_190/pr3.rs) |
+|  | [1569. 两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/)*** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_190/pr4.rs) |
 | 189周赛 | [1560. 在既定时间做作业的学生人数](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr1.rs) |
 |  | [1561. 重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr2.rs) |
 |  | [1562. 收藏清单](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_189/pr3.rs) |
