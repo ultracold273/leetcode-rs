@@ -17,6 +17,7 @@ mod contest_189;
 mod contest_190;
 mod contest_191;
 mod contest_192;
+mod contest_193;
 
 mod biweekly_20;
 mod biweekly_21;
@@ -26,6 +27,7 @@ mod biweekly_24;
 mod biweekly_25;
 mod biweekly_26;
 mod biweekly_27;
+mod biweekly_28;
 
 mod everyday;
 

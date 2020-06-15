@@ -8,6 +8,14 @@ Weekly Contests are listed in reverse chronological order:
 
 | Contest  | Name                                                         | Solution                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 193周赛  | [1603. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_193/pr1.rs) |
+|          | [1604. 不同整数的最少数目](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_193/pr2.rs) |
+|          | [1605. 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/)**⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_193/pr3.rs) |
+|          | [1296. 树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_193/pr4.rs) |
+| 28双周赛 | [1570. 商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_28/pr1.rs) |
+|          | [1572. 子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_28/pr2.rs) |
+|          | [1573. 找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_28/pr3.rs) |
+|          | [1571. 安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes/)***⭐️ | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/biweekly_28/pr4.rs) |
 | 192周赛  | [1580. 重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array/)* | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_192/pr1.rs) |
 |          | [1581. 数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_192/pr2.rs) |
 |          | [1582. 设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history/)** | [Rust](https://github.com/ultracold273/leetcode-rs/blob/master/src/contest_192/pr3.rs) |
